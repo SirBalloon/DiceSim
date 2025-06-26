@@ -1,4 +1,4 @@
-# DiceSim
+# DiceSim (No ChatGPT Used)
 
 Using C to learn how to make simple CLI application, starting with a Dice Simulator
 
